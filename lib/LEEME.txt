@@ -1,0 +1,1 @@
+Copie aqui h2-2.2.224.jar (https://repo1.maven.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.jar)
